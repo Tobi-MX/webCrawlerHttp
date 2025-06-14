@@ -1,2 +1,2 @@
 # webCrawlerHttp
-Project for the learn HTTP course
+Project for the HTTP course
